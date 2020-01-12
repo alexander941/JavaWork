@@ -8,7 +8,7 @@ package javaapplication4;
 import javax.swing.*;
 /**
  *
- * @author Alex Shustov
+ * @author Alexander Shustov
  */
 public class JavaApplication4 {
 
