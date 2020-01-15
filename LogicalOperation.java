@@ -8,7 +8,7 @@ package javaapplication4;
 
 /**
  *
- * @author Alex
+ * @author Alex Shustov   
  */
 public class LogicalOperation {
     static boolean g = true;
