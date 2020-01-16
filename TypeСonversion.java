@@ -8,7 +8,7 @@ package javaapplication4;
 
 /**
  *
- * @author Alex
+ * @author Alex Shustov
  */
 public class TypeСonversion {
     public static void main(String[]args){
