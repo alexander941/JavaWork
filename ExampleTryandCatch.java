@@ -16,8 +16,8 @@ import java.io.IOException;
 public class ExampleTryandCatch {
     public static void main(String[]args){
               try {
-          FileWriter fileWriter = new FileWriter("text.txt");
-          fileWriter.close();
+          FileWriter fileWriter = new FileWriter("text.txt");//Создание файла
+          fileWriter.close();//закрыть
           fileWriter.write("Hello World");
       }catch (IOException e){
           System.out.println("Ошибка-Нельзя записать в закрытый файл");
